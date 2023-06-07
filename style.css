@@ -1,0 +1,5 @@
+a[href^=https] {color: red;
+    
+
+}
+ul+p{width: 24px;}
